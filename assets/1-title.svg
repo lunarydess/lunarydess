@@ -1,0 +1,14 @@
+<!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 22" style="background-color: #00000000;" width="360px" height="22px">
+
+    
+                <path id="path0">
+                            <!-- Single line -->
+                                <animate id="d0" attributeName="d" begin="0s" dur="2000ms" fill="freeze" values="m0,11 h0 ; m0,11 h360 ; m0,11 h360 ; m0,11 h360" keyTimes="0;0.4;0.9;1"/>
+                    </path>
+    <text font-family="&quot;Verdana&quot;, monospace" fill="#C6A0F6" font-size="24" dominant-baseline="middle" x="50%" text-anchor="middle">
+        <textPath xlink:href="#path0">
+            Hey, my name's Lucielle!
+        </textPath>
+    </text>
+<script xmlns=""/></svg>

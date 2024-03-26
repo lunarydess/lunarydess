@@ -8,9 +8,9 @@
     <img src="https://raw.githubusercontent.com/lunarydess/lunarydess-stats/output/generated/overview.svg" /><img src="https://raw.githubusercontent.com/lunarydess/lunarydess-stats/output/generated/languages.svg" />
 </a></p>
 
-- :books: I am currently attending a voc. college for a voc. baccalaureate with a focus on computer science.
-- :magic_wand: You can find projects I contribute at on my [projects](https://github.com/lunarydess?tab=repositories&sort=name) tab.
-- :thinking: If you have questions reach me out [somewhere here](https://luzey.bakashineko.de/).
+- :relaxed: I am currently applying for an apprenticeship and am open for commissions.
+- :keyboard: You can find projects I contribute at in my **pins underneath** or my **[projects](https://github.com/lunarydess?tab=repositories&sort=name)** tab.
+- :question: If you have any questions left you can try to reach me out somewhere **[here](https://luzey.bakashineko.de/)**.
 
 <p align="right"><a href="https://readme-typing-svg.demolab.com">
         <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Mono&size=16&duration=800&pause=1000&color=C6A0F6&vCenter=true&repeat=false&width=200&height=18&lines=.%E2%95%B1%7C%60" align="right" alt="ascii-cat-1" />
